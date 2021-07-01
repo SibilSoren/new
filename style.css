@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  color: rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(to right, red, yellow);
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 50px;
+}
+
+h3 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0.01em;
+  font: 900 1em "Roboto", sans-serif;
+}
